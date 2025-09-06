@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-09-05T13:20:19 IST" name="Default suite" finished-at="2025-09-05T13:20:38 IST" duration-ms="18985">
+    <groups>
+    </groups>
+    <test started-at="2025-09-05T13:20:19 IST" name="Default test" finished-at="2025-09-05T13:20:38 IST" duration-ms="18985">
+      <class name="com.janitri.qa.tests.LoginPageTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:19 IST" name="setUp" finished-at="2025-09-05T13:20:28 IST" duration-ms="8789" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testInvalidLoginShowsErrorMsg()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:28 IST" name="testInvalidLoginShowsErrorMsg" description="Enter random credentials and capture the error message" finished-at="2025-09-05T13:20:30 IST" duration-ms="2103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testInvalidLoginShowsErrorMsg -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:30 IST" name="tearDown" finished-at="2025-09-05T13:20:30 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:30 IST" name="setUp" finished-at="2025-09-05T13:20:33 IST" duration-ms="3215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testLoginButtonStateWhenFieldsAreEmpty()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:33 IST" name="testLoginButtonStateWhenFieldsAreEmpty" description="Verify login button&#039;s state when fields are empty" finished-at="2025-09-05T13:20:33 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLoginButtonStateWhenFieldsAreEmpty -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:33 IST" name="tearDown" finished-at="2025-09-05T13:20:34 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:34 IST" name="setUp" finished-at="2025-09-05T13:20:37 IST" duration-ms="3358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testPasswordMasking()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:37 IST" name="testPasswordMasking" description="Validate password masking and unmasking toggle" finished-at="2025-09-05T13:20:37 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPasswordMasking -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.janitri.qa.tests.LoginPageTest@f5958c9]" started-at="2025-09-05T13:20:37 IST" name="tearDown" finished-at="2025-09-05T13:20:38 IST" duration-ms="401" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.janitri.qa.tests.LoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
